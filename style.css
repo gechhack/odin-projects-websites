@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.side-image{
+    display: inline;
+}
+.side-image img{
+    width: 40%;
+    height: 100vh;
+    z-index: -1;
+    background-size: cover;
+}
+.logo{
+    background-color: rgba(0, 0, 0, 0.466);
+}
